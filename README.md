@@ -1,6 +1,4 @@
-Here's the improved **README.md** file for your project:
 
-```markdown
 # Python Project Submission: Random Password Generator (RPG)
 
 ---
@@ -37,23 +35,17 @@ This tool is ideal for improving online security by generating unique and comple
 
 ---
 
+
+
 ## ⚙️ Installation:
 
-### 1. Clone the Repository:
+### Clone the Repository:
 ```bash
-git clone <repository-link>
+git clone "https://github.com/anurag815311/RPG--project.git"
 ```
 
-### 2. Navigate to the Project Directory:
-```bash
-cd Random_password_generator_Project
-```
 
-### 3. Install Required Dependencies:
-Install the required Python libraries:
-```bash
-pip install -r requirements.txt
-```
+
 
 ---
 
@@ -61,7 +53,7 @@ pip install -r requirements.txt
 
 1. Run the application:
    ```bash
-   python main.py
+   python Passwordrandom.py
    ```
 2. Enter the desired password length in the provided field.
 3. Click the **Generate Password** button to create a random password.
